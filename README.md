@@ -1,0 +1,1 @@
+Mathematica Notebooks for calculating the complexity of period mappings for simple elliptic curves and Calabi-Yau fourfolds. The complexity is found in the sense of effective o-minimality within the structure R_LNPF as defined by Binyamini in https://arxiv.org/abs/2405.16963. These notebooks accompany the thesis found at (no link yet).
